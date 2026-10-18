@@ -1,0 +1,4 @@
+Traditional software
+
+Human writes exact rules.
+Computer follows those rules.
