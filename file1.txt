@@ -1,3 +1,13 @@
 hi good morning
 how are u?
+AI (Artificial Intelligence) is technology that enables computers to perform tasks that normally require human intelligence.
+
+Examples of what AI can do:
+
+Understand and generate language (like chatbots).
+Recognize images, faces, and objects.
+Translate between languages.
+Answer questions and summarize information.
+Make recommendations (movies, music, shopping).
+Help drive vehicles or control robots.
 how s everything going now?
