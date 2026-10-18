@@ -1,3 +1,4 @@
+A simple way to think
 AI (Artificial Intelligence) is technology that enables computers to perform tasks that normally require human intelligence.
 AI is not truly "thinking" like a human. Most modern AI systems are very good at finding patterns and generating useful responses, 
 but they do not have human consciousness, emotions, or self-awarenessu.
@@ -5,6 +6,4 @@ Examples of what AI can do:
 Understand and generate language (like chatbots).
 Recognize images, faces, and objects.
 Translate between languages.
-Answer questions and summarize information.
-Make recommendations (movies, music, shopping).
 Help drive vehicles or control robots.
