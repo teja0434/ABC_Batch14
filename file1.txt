@@ -1,3 +1,5 @@
+Computer learns patterns from data.
+It can make predictions or decisions based on those patterns.
 hi good morning
 how are u?
 AI (Artificial Intelligence) is technology that enables computers to perform tasks that normally require human intelligence.

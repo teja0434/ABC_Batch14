@@ -8,3 +8,7 @@ Translate between languages.
 Answer questions and summarize information.
 Make recommendations (movies, music, shopping).
 Help drive vehicles or control robots.
+Traditional software
+
+Human writes exact rules.
+Computer follows those rules.
