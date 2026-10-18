@@ -1,4 +1,4 @@
-A simple way to think
+A simple way to think is to not think anything
 AI (Artificial Intelligence) is technology that enables computers to perform tasks that normally require human intelligence.
 AI is not truly "thinking" like a human. Most modern AI systems are very good at finding patterns and generating useful responses, 
 but they do not have human consciousness, emotions, or self-awarenessu.
