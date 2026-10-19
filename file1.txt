@@ -14,3 +14,4 @@ Make recommendations (movies, music, shopping).
 Help drive vehicles or control robots.
 how s everything going now?
 new changes added to the file.
+Soft reset for this file
