@@ -1,4 +1,10 @@
+iA simple way to think is to not think anything
 Traditional software and not the end 
-
-Human writes exact rules.
-Computer follows those rules.
+AI (Artificial Intelligence) is technology that enables computers to perform tasks that normally require human intelligence.
+AI is not truly "thinking" like a human. Most modern AI systems are very good at finding patterns and generating useful responses, 
+but they do not have human consciousness, emotions, or self-awarenessu.
+Translate between languages.
+Help drive vehicles or control robots.
+resetting the file
+resetting
+i am teja and i am from andhra
