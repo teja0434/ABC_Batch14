@@ -1,1 +1,2 @@
 these are the changes made on file6.txt
+these are the latest changed made for committing a tag
