@@ -1,0 +1,11 @@
+Computer learns patterns from data.
+It can make predictions or decisions based on those patterns.
+hi good morning
+how are u?
+Make recommendations (movies, music, shopping).
+
+new changes
+Help drive vehicles or control robots.
+how s everything going now?
+new changes added to the file.
+Soft reset for this file
