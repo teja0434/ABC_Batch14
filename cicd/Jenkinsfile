@@ -5,7 +5,7 @@ pipeline {
 
         stage('pull scm git ') {
             steps {
-                git branch: 'main', url: 'https://github.com/PraveenKuber/Amazon-Jenkins.git'
+                git branch: 'main', url: 'https://github.com/teja0434/ABC_Batch14/'
             }
         }
         stage('compile ') {
@@ -23,17 +23,38 @@ pipeline {
         
     }
 
-  post{
+  post {
 
-  success{
-     echo 'Build success 1'
-  }
-    
-  failure{
-       echo 'Failure in the build'
-   }
+    success {
+        emailext(
+            to: 'teja.abc.reports@gmail.com',
+            subject: "SUCCESS: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
+            body: """
+Build Successful
 
-  }
+Job Name: ${env.JOB_NAME}
+Build Number: ${env.BUILD_NUMBER}
+Build URL: ${env.BUILD_URL}
+"""
+        )
+    }
+
+    failure {
+        emailext(
+            to: 'teja.abc.reports@gmail.com',
+            subject: "FAILURE: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
+            body: """
+Build Failed
+
+Job Name: ${env.JOB_NAME}
+Build Number: ${env.BUILD_NUMBER}
+Build URL: ${env.BUILD_URL}
+"""
+        )
+    }
+}
+
+  
 
 
 }
