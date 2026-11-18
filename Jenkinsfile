@@ -1,7 +1,7 @@
 pipeline { 
     agent any
     
-    stages {
+    stages { 
 
         stage('pull scm git ') {
             steps {
